@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SBCS Student Class Schedule</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="enter_student_id">To continue, enter student ID</string>
+    <string name="title_activity_schedule">Schedule</string>
+    <string name="get_schedule_button_content_description">Clicked to get schedule</string>
+    <string name="search_module_schedule">Enter module</string>
+
+</resources>

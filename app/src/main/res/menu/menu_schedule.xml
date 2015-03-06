@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.carissas.sbcsstudentclassschedule.ScheduleActivity">
+
+    <item
+        android:id="@+id/action_schedule"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="Schedule"/>
+
+    <item
+        android:id="@+id/action_alerts"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="Alerts"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="Settings"/>
+
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="Exit"/>
+
+    <item android:id="@+id/search"
+    android:title="Search"
+    app:showAsAction="always"
+    android:actionViewClass="android.widget.SearchView" />
+
+</menu>
